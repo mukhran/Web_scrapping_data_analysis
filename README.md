@@ -1,6 +1,6 @@
 # web_scrapping
 
-This new assignment consists of two technical products. 
+This assignment consists of two technical products. 
 Scrape titles and preview text from Mars news articles.
 Scrape and analyze Mars weather data, which exists in a table.
 
